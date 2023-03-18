@@ -1,0 +1,30 @@
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.exe
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.deps.json
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.runtimeconfig.json
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.dll
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.pdb
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.AssemblyInfo.cs
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.dll
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\refint\AplikasiCalculator.dll
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.pdb
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.genruntimeconfig.cache
+C:\Users\user\Documents\Belajar Coding tpi VS\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\ref\AplikasiCalculator.dll
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.exe
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.deps.json
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.runtimeconfig.json
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.dll
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\bin\Debug\net6.0\AplikasiCalculator.pdb
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.AssemblyInfo.cs
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.dll
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\refint\AplikasiCalculator.dll
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.pdb
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\AplikasiCalculator.genruntimeconfig.cache
+C:\Users\user\Documents\Tugas\AplikasiCalculator\AplikasiCalculator\obj\Debug\net6.0\ref\AplikasiCalculator.dll
